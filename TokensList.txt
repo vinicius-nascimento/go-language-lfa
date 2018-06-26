@@ -1,0 +1,37 @@
+<LETRA>	= ("a" | ... | "z" | _)* | _
+<NUM>	= (0 | ... | 9)+
+<INT>	=	"INT"
+<FLOAT>	=	"FLOAT"
+
+<ADD>	=	"+"
+<SUB>	=	"-"
+<MUL>	=	"*"
+<QUO>	=	"/"
+
+<AND>	=	"&"
+<OR>	=	"|"
+
+<EQL>	=	"=="
+<LSS>	=	"<"
+<GTR>	=	">"
+<ASSIGN> =	"="
+<NOT>	=	"!"
+<NEQ>	=	"!="
+<LEQ>	=	"<="
+<GEQ>	=	">="
+<DEFINE> =	":="
+
+<LPAREN> = "("
+<RPAREN> = ")"
+<LBRACK> = "["
+<RBRACK> = "]"
+<LBRACE> = "{"
+<RBRACE> = "}"
+
+<COMMA> =	","
+<PT> = "."
+<SEMICOLON>	= ";"
+<COLON>	= ":"
+<FOR>	= "for"
+<IF>	=	"if"
+<VAR>	=	"var"
