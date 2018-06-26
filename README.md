@@ -1,3 +1,1 @@
-Trabalho Computacional de Linguagens Formais e Autômatos
-Grupo 6
-Analisadores Léxico e Sintático da Linguagem Go
+Trabalho computacional de Linguagens Formais e Autômatos, grupo 6, analisadores léxico e sintático da Linguagem Go
