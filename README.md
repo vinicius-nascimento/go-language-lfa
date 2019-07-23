@@ -4,7 +4,7 @@ Trabalho Computacional da disciplina de Linguagens Formais e Autômatos, do curs
 
 O trabalho consiste no projeto e implementação dos analisadores léxico e sintático de uma linguagem de programação. A linguagem escolhida foi a Linguagem GO.
 
-### Estão Incluidos no Projeto:
+## Estão Incluídos no Projeto
 
 - Gramática Livre de Contexto;
 - Máquina de Moore;
